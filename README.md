@@ -38,7 +38,7 @@ A powerful platform to help you understand and manage your health with the lates
    ```
 3. Run the Flask App
    ```bash
-   python app.py
+   python main.py
    ```
 4. Open in Browser
    - Go to [http://localhost:5000](http://localhost:5000)
